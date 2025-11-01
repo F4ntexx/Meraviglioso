@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///D:/Meraviglioso/pages/catalogs.jsx"],"sourcesContent":["import Link from \"next/link\"\r\n\r\nconst Catalogs = () => {\r\nreturn(\r\n    <>\r\n    <div>\r\n        <Link href=\"/\">\r\n        Главная\r\n        </Link>\r\n        <Link href=\"/catalogs\">\r\n        Каталог\r\n        </Link>\r\n      </div>\r\n    <div>Hello User, this is catalogs</div>\r\n    </>\r\n)\r\n}\r\n\r\nexport default Catalogs"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,WAAW;IACjB,qBACI;;0BACA,qKAAC;;kCACG,qKAAC,gIAAI;wBAAC,MAAK;kCAAI;;;;;;kCAGf,qKAAC,gIAAI;wBAAC,MAAK;kCAAY;;;;;;;;;;;;0BAI3B,qKAAC;0BAAI;;;;;;;;AAGT;uCAEe","debugId":null}}]
+}

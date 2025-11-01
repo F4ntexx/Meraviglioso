@@ -1,0 +1,347 @@
+[00:00:01.775] Server  LOG      ✓ Ready in 1194ms
+[00:00:04.400] Server  WARN     ⚠ ./styles/layout.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/layout.module.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\layout.module.scss 1:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.402] Server  WARN     ⚠ ./styles/layout.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/mixins.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\mixins.scss 1:9         @import
+styles\layout.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.405] Server  WARN     ⚠ ./styles/layout.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 1, column 8 of file:///D:/Meraviglioso/styles/layout.module.scss:1:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+1 | @import "mixins.scss";
+
+
+styles\layout.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.408] Server  WARN     ⚠ ./styles/models.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/models.module.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\models.module.scss 1:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/models.module.scss
+    ./components/modelsClotch.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/models.module.scss
+    ./components/modelsClotch.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.411] Server  WARN     ⚠ ./styles/styles.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/mixins.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\mixins.scss 1:9         @import
+styles\styles.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+
+[00:00:04.414] Server  WARN     ⚠ ./styles/styles.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/styles.module.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\styles.module.scss 1:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+
+[00:00:04.416] Server  WARN     ⚠ ./styles/styles.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 1, column 8 of file:///D:/Meraviglioso/styles/styles.module.scss:1:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+1 | @import "mixins.scss";
+
+
+styles\styles.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+
+[00:00:04.664] Server  WARN     ⚠ ./styles/layout.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/layout.module.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\layout.module.scss 1:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.667] Server  WARN     ⚠ ./styles/layout.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/mixins.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\mixins.scss 1:9         @import
+styles\layout.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.670] Server  WARN     ⚠ ./styles/layout.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 1, column 8 of file:///D:/Meraviglioso/styles/layout.module.scss:1:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+1 | @import "mixins.scss";
+
+
+styles\layout.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/layout.module.scss
+    ./components/header.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.671] Server  WARN     ⚠ ./styles/models.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/models.module.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\models.module.scss 1:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/models.module.scss
+    ./components/modelsClotch.tsx
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/models.module.scss
+    ./components/modelsClotch.tsx
+    ./pages/index.tsx
+
+
+[00:00:04.673] Server  WARN     ⚠ ./styles/styles.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/mixins.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\mixins.scss 1:9         @import
+styles\styles.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+
+[00:00:04.676] Server  WARN     ⚠ ./styles/styles.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 0, column 8 of file:///D:/Meraviglioso/styles/styles.module.scss:0:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+0 | @import "variables.scss";
+
+
+styles\styles.module.scss 1:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+
+[00:00:04.677] Server  WARN     ⚠ ./styles/styles.module.scss
+Issue while running loader
+SassWarning: Deprecation Warning on line 1, column 8 of file:///D:/Meraviglioso/styles/styles.module.scss:1:8:
+Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+1 | @import "mixins.scss";
+
+
+styles\styles.module.scss 2:9  root stylesheet
+
+
+Import traces:
+  Browser:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+  SSR:
+    ./styles/styles.module.scss
+    ./pages/index.tsx
+
+
+[00:00:04.832] Browser WARN    Image with src "/_next/static/media/WinterBlueMen.12f04803.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:15.360] Server  LOG      ✓ Compiled in 106ms
+[00:00:23.522] Server  LOG      ✓ Compiled in 104ms

@@ -1,0 +1,14 @@
+@import "variables.scss";
+
+@mixin center {
+  justify-content: $items-center;
+  display: $flex-container;
+  gap: $gap-container;
+  align-items: $items-center;
+}
+
+@mixin link {
+  text-decoration: none;
+  color: $secondary-color;
+}
+

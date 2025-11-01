@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/styles.module.scss [ssr] (css module)"],"sourcesContent":["__turbopack_context__.v({\n});\n"],"names":[],"mappings":"AAAA;AACA"}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///D:/Meraviglioso/pages/index.tsx"],"sourcesContent":["import Link from \"next/link\";\r\nimport styles from \"../styles.module.scss\"\r\nconst Index = () => {\r\n  return (\r\n    <div>\r\n      <Link href=\"/\">Главная</Link>\r\n      <Link href=\"/catalogs\">Каталог</Link>\r\n      <h1 className={styles.title}>Главная команда</h1>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default Index;\r\n"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AACA,MAAM,QAAQ;IACZ,qBACE,qKAAC;;0BACC,qKAAC,gIAAI;gBAAC,MAAK;0BAAI;;;;;;0BACf,qKAAC,gIAAI;gBAAC,MAAK;0BAAY;;;;;;0BACvB,qKAAC;gBAAG,WAAW,uHAAM,CAAC,KAAK;0BAAE;;;;;;;;;;;;AAGnC;uCAEe","debugId":null}}]
+}

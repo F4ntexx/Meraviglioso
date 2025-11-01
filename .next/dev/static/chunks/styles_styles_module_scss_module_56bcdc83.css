@@ -1,0 +1,41 @@
+/* [project]/styles/styles.module.scss.module.css [client] (css) */
+body {
+  background-color: #cadcfc;
+  justify-content: center;
+  display: flex;
+}
+
+.styles-module-scss-module__U7p4tW__image {
+  width: 5vw;
+  height: 5vw;
+}
+
+.styles-module-scss-module__U7p4tW__title {
+  color: #00246b;
+}
+
+.styles-module-scss-module__U7p4tW__container {
+  flex-direction: column;
+  gap: 2px;
+  display: flex;
+}
+
+.styles-module-scss-module__U7p4tW__container h1 {
+  font-size: 10vw;
+}
+
+.styles-module-scss-module__U7p4tW__container .styles-module-scss-module__U7p4tW__subtitle {
+  color: #00246b;
+}
+
+.styles-module-scss-module__U7p4tW__nav {
+  gap: 2vw;
+  display: flex;
+}
+
+.styles-module-scss-module__U7p4tW__Link {
+  color: #8ab6f9;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=styles_styles_module_scss_module_56bcdc83.css.map*/

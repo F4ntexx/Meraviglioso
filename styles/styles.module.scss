@@ -1,0 +1,25 @@
+@import "variables.scss";
+@import "mixins.scss";
+
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 3vw;
+    background-color: $background-color;
+}
+
+
+.title {
+    font-size: 10vw;
+    text-align: center;
+    color: $primary-color;
+}
+
+.subtitle{
+    font-size: 4vw;
+    color: $primary-color;
+    text-align: center;
+}
+
+
+

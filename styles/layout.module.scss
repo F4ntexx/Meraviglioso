@@ -1,0 +1,30 @@
+@import "variables.scss";
+@import "mixins.scss";
+
+.header {
+  @include center();
+  .nav {
+    @include center();
+  }
+}
+
+.Link {
+  @include link();
+  font-size: 3cqb;
+}
+
+.image {
+  height: 10vw;
+  width: 10vw;
+}
+
+@media (min-width: 480px) and (max-width: 1024px) {
+  .Link {
+    font-size: 3vw;
+  }
+
+  .image {
+    height: 12vw;
+    width: 12vw;
+  }
+}

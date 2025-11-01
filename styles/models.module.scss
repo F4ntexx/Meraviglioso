@@ -1,0 +1,55 @@
+@import "variables.scss";
+
+.titleSection {
+  font-size: 4vw;
+  display: flex;
+  justify-content: center;
+  color: $secondary-color;
+}
+
+.containerGrid {
+  display: grid;
+  grid-column: 2;
+  place-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.modelsImage { 
+  filter: brightness(0.8);
+  padding-left: 0.3vw;
+  padding-top: 2vw;
+  width: 22.5vw;
+  height: 34.5vw;
+}
+
+.modelsImage:hover{
+  transition-duration: 1s;
+   filter: brightness(1);
+}
+
+.subtitle{
+  color: $primary-color;
+}
+
+@media (min-width: 480px) and (max-width: 750px) {
+  .titleSection{
+    font-size: 5vw;
+  }
+
+  .modelsImage {
+    display: flex;
+    justify-content: center;
+    padding-top: 2vw;
+    width: 90vw;
+    height: 140vw;
+  }
+}
+
+@media (min-width: 751px) and (max-width: 1200px) {
+  .modelsImage {
+  padding-top: 2vw;
+  width: 45vw;
+  height: 75vw;
+  }
+}

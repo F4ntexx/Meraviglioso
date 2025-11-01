@@ -1,0 +1,31 @@
+/* [project]/styles/layout.module.scss.module.css [client] (css) */
+.layout-module-scss-module__sXLTvq__header, .layout-module-scss-module__sXLTvq__header .layout-module-scss-module__sXLTvq__nav {
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+
+.layout-module-scss-module__sXLTvq__Link {
+  color: #648ecc;
+  font-size: 3cqb;
+  text-decoration: none;
+}
+
+.layout-module-scss-module__sXLTvq__image {
+  width: 10vw;
+  height: 10vw;
+}
+
+@media (min-width: 480px) and (max-width: 1024px) {
+  .layout-module-scss-module__sXLTvq__Link {
+    font-size: 3vw;
+  }
+
+  .layout-module-scss-module__sXLTvq__image {
+    width: 12vw;
+    height: 12vw;
+  }
+}
+
+/*# sourceMappingURL=styles_layout_module_scss_module_css_65f1660e._.single.css.map*/
