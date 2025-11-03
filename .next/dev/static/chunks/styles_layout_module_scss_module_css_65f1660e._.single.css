@@ -7,8 +7,9 @@
 }
 
 .layout-module-scss-module__sXLTvq__Link {
-  color: #648ecc;
-  font-size: 3cqb;
+  color: #e5e7eb;
+  padding-top: 2vw;
+  font-size: 2vw;
   text-decoration: none;
 }
 
@@ -19,12 +20,13 @@
 
 @media (min-width: 480px) and (max-width: 1024px) {
   .layout-module-scss-module__sXLTvq__Link {
-    font-size: 3vw;
+    padding-top: 5vw;
+    font-size: 5vw;
   }
 
   .layout-module-scss-module__sXLTvq__image {
-    width: 12vw;
-    height: 12vw;
+    width: 4vw;
+    height: 4vw;
   }
 }
 

@@ -1,0 +1,47 @@
+/* [project]/styles/catalogs.module.scss.module.css [client] (css) */
+body {
+  background-color: #08090a;
+}
+
+.catalogs-module-scss-module__Wf11QG__navigateSectionClotch {
+  justify-content: center;
+  gap: 2vw;
+  font-size: 3.8vw;
+  display: flex;
+}
+
+.catalogs-module-scss-module__Wf11QG__linkNavigate {
+  color: #00246b;
+  text-decoration: none;
+  transition: all 1s;
+}
+
+.catalogs-module-scss-module__Wf11QG__linkNavigate:hover {
+  color: #e5e7eb;
+  transition: all 1s;
+}
+
+.catalogs-module-scss-module__Wf11QG__titleSection {
+  color: #00246b;
+  justify-content: center;
+  font-size: 3.5vw;
+  font-weight: 600;
+  display: flex;
+}
+
+.catalogs-module-scss-module__Wf11QG__menClotch {
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: .5vw;
+  padding-top: 5vw;
+  padding-left: 5vw;
+  display: grid;
+}
+
+@media (min-width: 480px) and (max-width: 1200px) {
+  .catalogs-module-scss-module__Wf11QG__menClotch {
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+  }
+}
+
+/*# sourceMappingURL=styles_catalogs_module_scss_module_css_65f1660e._.single.css.map*/

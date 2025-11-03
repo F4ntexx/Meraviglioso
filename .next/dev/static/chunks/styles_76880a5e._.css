@@ -1,0 +1,111 @@
+/* [project]/styles/layout.module.scss.module.css [client] (css) */
+.layout-module-scss-module__sXLTvq__header, .layout-module-scss-module__sXLTvq__header .layout-module-scss-module__sXLTvq__nav {
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+
+.layout-module-scss-module__sXLTvq__Link {
+  color: #e5e7eb;
+  padding-top: 2vw;
+  font-size: 2vw;
+  text-decoration: none;
+}
+
+.layout-module-scss-module__sXLTvq__image {
+  width: 10vw;
+  height: 10vw;
+}
+
+@media (min-width: 480px) and (max-width: 1024px) {
+  .layout-module-scss-module__sXLTvq__Link {
+    padding-top: 5vw;
+    font-size: 5vw;
+  }
+
+  .layout-module-scss-module__sXLTvq__image {
+    width: 4vw;
+    height: 4vw;
+  }
+}
+
+/* [project]/styles/catalogs.module.scss.module.css [client] (css) */
+body {
+  background-color: #08090a;
+}
+
+.catalogs-module-scss-module__Wf11QG__navigateSectionClotch {
+  justify-content: center;
+  gap: 2vw;
+  font-size: 3.8vw;
+  display: flex;
+}
+
+.catalogs-module-scss-module__Wf11QG__linkNavigate {
+  color: #00246b;
+  text-decoration: none;
+  transition: all 1s;
+}
+
+.catalogs-module-scss-module__Wf11QG__linkNavigate:hover {
+  color: #e5e7eb;
+  transition: all 1s;
+}
+
+.catalogs-module-scss-module__Wf11QG__titleSection {
+  color: #00246b;
+  justify-content: center;
+  font-size: 3.5vw;
+  font-weight: 600;
+  display: flex;
+}
+
+.catalogs-module-scss-module__Wf11QG__menClotch {
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: .5vw;
+  padding-top: 5vw;
+  padding-left: 5vw;
+  display: grid;
+}
+
+@media (min-width: 480px) and (max-width: 1200px) {
+  .catalogs-module-scss-module__Wf11QG__menClotch {
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+  }
+}
+
+/* [project]/styles/cardsStyle.module.scss.module.css [client] (css) */
+.cardsStyle-module-scss-module__lv9qoq__containerCards {
+  width: 25vw;
+  height: 45vw;
+}
+
+.cardsStyle-module-scss-module__lv9qoq__image {
+  width: 25vw;
+  height: 40vw;
+}
+
+.cardsStyle-module-scss-module__lv9qoq__containerInfo {
+  gap: 1vw;
+  display: flex;
+}
+
+.cardsStyle-module-scss-module__lv9qoq__title, .cardsStyle-module-scss-module__lv9qoq__price, .cardsStyle-module-scss-module__lv9qoq__brand {
+  color: #e5e7eb;
+}
+
+@media (min-width: 300px) and (max-width: 1200px) {
+  .cardsStyle-module-scss-module__lv9qoq__containerCards {
+    width: 45vw;
+    height: 65vw;
+  }
+
+  .cardsStyle-module-scss-module__lv9qoq__image {
+    width: 35vw;
+    height: 55vw;
+  }
+}
+
+/*# sourceMappingURL=styles_76880a5e._.css.map*/

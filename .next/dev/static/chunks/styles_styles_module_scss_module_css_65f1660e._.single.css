@@ -1,21 +1,66 @@
 /* [project]/styles/styles.module.scss.module.css [client] (css) */
 body {
-  background-color: #cadcfc;
+  background-color: #08090a;
   justify-content: center;
+  align-items: center;
   padding-top: 3vw;
   display: flex;
 }
 
+.styles-module-scss-module__U7p4tW__rootInfoPage {
+  display: flex;
+}
+
 .styles-module-scss-module__U7p4tW__title {
-  text-align: center;
   color: #00246b;
-  font-size: 10vw;
+  font-size: 5vw;
 }
 
 .styles-module-scss-module__U7p4tW__subtitle {
   color: #00246b;
-  text-align: center;
-  font-size: 4vw;
+  font-size: 2vw;
+}
+
+.styles-module-scss-module__U7p4tW__modelImage {
+  flex-direction: row;
+  display: flex;
+}
+
+.styles-module-scss-module__U7p4tW__modelMenImage, .styles-module-scss-module__U7p4tW__modelWomenImage {
+  width: 29vw;
+  height: 30vw;
+}
+
+.styles-module-scss-module__U7p4tW__modelMenImage {
+  clip-path: polygon(5% 0, 100% 0, 95% 95%, 5% 90%);
+  transform: skewX(-5deg);
+}
+
+.styles-module-scss-module__U7p4tW__modelWomenImage {
+  clip-path: polygon(10% 5%, 90% 15%, 92% 98%, 4% 90%);
+  transform: skewX(10deg);
+}
+
+@media (min-width: 480px) and (max-width: 1200px) {
+  .styles-module-scss-module__U7p4tW__rootInfoPage {
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .styles-module-scss-module__U7p4tW__modelImage {
+    display: none;
+  }
+
+  .styles-module-scss-module__U7p4tW__title {
+    font-size: 8vw;
+  }
+
+  .styles-module-scss-module__U7p4tW__subtitle {
+    font-size: 4vw;
+  }
 }
 
 /*# sourceMappingURL=styles_styles_module_scss_module_css_65f1660e._.single.css.map*/

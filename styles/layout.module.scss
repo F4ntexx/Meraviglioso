@@ -10,7 +10,8 @@
 
 .Link {
   @include link();
-  font-size: 3cqb;
+  font-size: 2vw;
+  padding-top: 2vw;
 }
 
 .image {
@@ -20,11 +21,12 @@
 
 @media (min-width: 480px) and (max-width: 1024px) {
   .Link {
-    font-size: 3vw;
+    font-size: 5vw;
+    padding-top: 5vw;
   }
 
   .image {
-    height: 12vw;
-    width: 12vw;
+    height: 4vw;
+    width: 4vw;
   }
 }

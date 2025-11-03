@@ -1,6 +1,5 @@
 import Image from "next/image";
 import models from "../styles/models.module.scss";
-import { subtle } from "crypto";
 
 interface ModelsClotchProps {
   titleSection: string;
@@ -17,11 +16,12 @@ export const ModelsСlotch = (props: ModelsClotchProps) => {
       <div>
         <p className={models.titleSection}>{props.titleSection}</p>
       </div>
-      <div className="models.containerGrid">
+      <div className="models.containerGrid" id="containerClotchIndex">
         <Image
           src={props.imageOne}
           alt="ImageModels"
           className={models.modelsImage}
+          id="imageOne"
         />
 
         <Image

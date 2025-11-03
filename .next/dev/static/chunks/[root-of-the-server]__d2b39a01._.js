@@ -1102,86 +1102,127 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$wome
 ;
 ;
 const Index = ()=>{
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("html", {
+        lang: "ru",
         children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$styles$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].body,
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("head", {
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$header$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["HeaderComponent"], {}, void 0, false, {
-                        fileName: "[project]/pages/index.tsx",
-                        lineNumber: 25,
-                        columnNumber: 9
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$styles$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].title,
-                        children: "Meraviglioso"
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
+                        name: "viewport",
+                        content: "width=device-width"
                     }, void 0, false, {
                         fileName: "[project]/pages/index.tsx",
                         lineNumber: 26,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$styles$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].subtitle,
-                        children: "La vostra magnificenza, incarnata nello stile"
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "icon",
+                        href: "favicon.ico",
+                        type: "image/x-icon"
                     }, void 0, false, {
                         fileName: "[project]/pages/index.tsx",
                         lineNumber: 27,
+                        columnNumber: 9
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("title", {
+                        children: "Name"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/index.tsx",
+                        lineNumber: 29,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/index.tsx",
-                lineNumber: 24,
+                lineNumber: 25,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
-                        titleSection: "Winter clotch for men",
-                        imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBrownMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBrownMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBlueMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBlueMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterGreenMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterGreenMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterWhiteMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterWhiteMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        subtitle: "Model number One"
-                    }, void 0, false, {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$styles$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].body,
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$header$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["HeaderComponent"], {}, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 33,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$styles$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].title,
+                                children: "Meraviglioso"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 34,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$styles$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].subtitle,
+                                children: "La vostra magnificenza, incarnata nello stile"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 35,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0))
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/pages/index.tsx",
                         lineNumber: 32,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
-                        titleSection: "Winter clotch for woomen",
-                        imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBrownWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBrownWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBlueWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBlueWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterGreenWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterGreenWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterWhiteWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterWhiteWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        subtitle: "Model number One"
-                    }, void 0, false, {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
+                                titleSection: "Winter clotch for men",
+                                imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBrownMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBrownMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBlueMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterBlueMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterGreenMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterGreenMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterWhiteMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$menCollection$2f$WinterWhiteMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                subtitle: "Model number One"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 40,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
+                                titleSection: "Winter clotch for woomen",
+                                imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBrownWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBrownWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBlueWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterBlueWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterGreenWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterGreenWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterWhiteWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$winterTime$2f$womenCollection$2f$WinterWhiteWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                subtitle: "Model number One"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 49,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
+                                titleSection: "Summer clotch for men",
+                                imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBrownMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBrownMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBlueMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBlueMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerGreenMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerGreenMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerWhiteMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerWhiteMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                subtitle: "Model number One"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 58,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
+                                titleSection: "Summer clotch for woomen",
+                                imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBrownWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBrownWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBlueWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBlueWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerGreenWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerGreenWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerWhiteWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerWhiteWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                                subtitle: "Model number One"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/index.tsx",
+                                lineNumber: 67,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0))
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/pages/index.tsx",
-                        lineNumber: 41,
-                        columnNumber: 9
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
-                        titleSection: "Summer clotch for men",
-                        imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBrownMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBrownMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBlueMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerBlueMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerGreenMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerGreenMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerWhiteMen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$menCollection$2f$SummerWhiteMen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        subtitle: "Model number One"
-                    }, void 0, false, {
-                        fileName: "[project]/pages/index.tsx",
-                        lineNumber: 50,
-                        columnNumber: 9
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$modelsClotch$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["ModelsСlotch"], {
-                        titleSection: "Summer clotch for woomen",
-                        imageOne: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBrownWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBrownWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageTwo: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBlueWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerBlueWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageThree: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerGreenWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerGreenWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        imageFour: __TURBOPACK__imported__module__$5b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerWhiteWomen$2e$webp$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$assets$2f$summerTime$2f$womenCollection$2f$SummerWhiteWomen$2e$webp__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                        subtitle: "Model number One"
-                    }, void 0, false, {
-                        fileName: "[project]/pages/index.tsx",
-                        lineNumber: 59,
+                        lineNumber: 39,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
@@ -1193,7 +1234,7 @@ const Index = ()=>{
         ]
     }, void 0, true, {
         fileName: "[project]/pages/index.tsx",
-        lineNumber: 23,
+        lineNumber: 24,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };

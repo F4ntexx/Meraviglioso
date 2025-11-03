@@ -1,0 +1,35 @@
+@import "variables.scss";
+
+.containerCards {
+  height: 45vw;
+  width: 25vw;
+}
+
+.image {
+  height: 40vw;
+  width: 25vw;
+}
+
+.containerInfo {
+  display: flex;
+  gap: 1vw;
+}
+
+.title,
+.price,
+.brand {
+  color: $secondary-color;
+}
+
+@media (min-width: 300px) and (max-width: 1200px) {
+  .containerCards {
+    height: 65vw;
+    width: 45vw;
+
+  }
+
+  .image{
+    height: 55vw;
+    width: 35vw;
+  }
+}

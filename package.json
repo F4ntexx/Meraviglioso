@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/F4ntexx/Meraviglioso#readme",
   "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.13.0",
     "next": "^16.0.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",

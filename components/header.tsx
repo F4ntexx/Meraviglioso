@@ -6,8 +6,8 @@ import Link from "next/link";
 export const HeaderComponent = () => {
   return (
     <header className={layout.header}>
-      <Image src={logotype} alt="logotypeSword" className={layout.image} />
       <nav className={layout.nav}>
+        <Image src={logotype} alt="logotype"></Image>
         <Link href="/" className={layout.Link}>
           casa
         </Link>

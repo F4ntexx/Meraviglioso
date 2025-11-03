@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///D:/Meraviglioso/pages/text.jsx"],"sourcesContent":["import gsap from \"gsap\";\r\nimport { useGSAP } from \"@gsap/react\";\r\n\r\nconst text = () => {\r\n  useGSAP(() => {\r\n    gsap.from(\".fade-in-text\", {\r\n      opacity: 0, // Начать с прозрачности 0\r\n      duration: 1.5, // Длительность анимации 1.5 секунды\r\n      delay: 0.5, // Задержка перед началом анимации 0.5 секунды\r\n      ease: \"power2.out\", // Функция сглаживания (как элемент ускоряется/замедляется)\r\n    });\r\n  });\r\n  return (\r\n    <div>\r\n      <h1 class=\"fade-in-text\">Привет, мир!</h1>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default text;\r\n"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AAEA,MAAM,OAAO;IACX,IAAA,kIAAO,EAAC;QACN,4GAAI,CAAC,IAAI,CAAC,iBAAiB;YACzB,SAAS;YACT,UAAU;YACV,OAAO;YACP,MAAM;QACR;IACF;IACA,qBACE,qKAAC;kBACC,cAAA,qKAAC;YAAG,OAAM;sBAAe;;;;;;;;;;;AAG/B;uCAEe","debugId":null}}]
+}

@@ -1,0 +1,33 @@
+/* [project]/styles/cardsStyle.module.scss.module.css [client] (css) */
+.cardsStyle-module-scss-module__lv9qoq__containerCards {
+  width: 25vw;
+  height: 45vw;
+}
+
+.cardsStyle-module-scss-module__lv9qoq__image {
+  width: 25vw;
+  height: 40vw;
+}
+
+.cardsStyle-module-scss-module__lv9qoq__containerInfo {
+  gap: 1vw;
+  display: flex;
+}
+
+.cardsStyle-module-scss-module__lv9qoq__title, .cardsStyle-module-scss-module__lv9qoq__price, .cardsStyle-module-scss-module__lv9qoq__brand {
+  color: #e5e7eb;
+}
+
+@media (min-width: 300px) and (max-width: 1200px) {
+  .cardsStyle-module-scss-module__lv9qoq__containerCards {
+    width: 45vw;
+    height: 65vw;
+  }
+
+  .cardsStyle-module-scss-module__lv9qoq__image {
+    width: 35vw;
+    height: 55vw;
+  }
+}
+
+/*# sourceMappingURL=styles_cardsStyle_module_scss_module_css_65f1660e._.single.css.map*/

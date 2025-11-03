@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///D:/Meraviglioso/pages/text.jsx"],"sourcesContent":["const text = () => {\r\n  return (\r\n    <div>\r\n      <p></p>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default text;\r\n"],"names":[],"mappings":";;;;;;AAAA,MAAM,OAAO;IACX,qBACE,qKAAC;kBACC,cAAA,qKAAC;;;;;;;;;;AAGP;uCAEe","debugId":null}}]
+}

@@ -1,25 +1,66 @@
 @import "variables.scss";
 @import "mixins.scss";
 
-body{
-    display: flex;
-    justify-content: center;
-    padding-top: 3vw;
-    background-color: $background-color;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3vw;
+  background-color: $background-color;
 }
 
+.rootInfoPage {
+  display: flex;
+}
 
 .title {
-    font-size: 10vw;
-    text-align: center;
-    color: $primary-color;
+  font-size: 5vw;
+  color: $primary-color;
 }
 
-.subtitle{
+.subtitle {
+  font-size: 2vw;
+  color: $primary-color;
+}
+
+.modelImage {
+  display: flex;
+  flex-direction: row;
+}
+
+.modelMenImage,
+.modelWomenImage {
+  height: 30vw;
+  width: 29vw;
+}
+
+.modelMenImage {
+  transform: skewX(-5deg);
+  clip-path: polygon(5% 0, 100% 0, 95% 95%, 5% 90%);
+}
+
+.modelWomenImage {
+  transform: skewX(10deg);
+  clip-path: polygon(10% 5%, 90% 15%, 92% 98%, 4% 90%);
+}
+@media (min-width: 480px) and (max-width: 1200px) {
+  .rootInfoPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .modelImage {
+    display: none;
+  }
+
+  .title{
+    font-size: 8vw;
+  }
+
+  .subtitle{
     font-size: 4vw;
-    color: $primary-color;
-    text-align: center;
+  }
 }
-
-
-

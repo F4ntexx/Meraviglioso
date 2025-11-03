@@ -1,0 +1,46 @@
+@import "variables.scss";
+
+body {
+  background-color: $background-color;
+}
+
+.navigateSectionClotch {
+  display: flex;
+  justify-content: center;
+  gap: 2vw;
+  font-size: 3.8vw;
+}
+
+.linkNavigate {
+  transition: 1s;
+  color: $primary-color;
+  text-decoration: none;
+
+  &:hover {
+    transition: 1s;
+    color: $secondary-color;
+  }
+}
+
+.titleSection{
+  display: flex;
+  justify-content: center;
+  color: $primary-color;
+  font-weight: 600;
+  font-size: 3.5vw;
+}
+
+.menClotch {
+  display: grid;
+  padding-left: 5vw;
+  padding-top: 5vw;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.5vw;
+}
+
+@media (min-width: 480px) and (max-width: 1200px) {
+  .menClotch {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
