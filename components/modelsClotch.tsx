@@ -1,13 +1,14 @@
 import Image from "next/image";
 import models from "../styles/models.module.scss";
+import { StaticImageData } from 'next/image';
 
 interface ModelsClotchProps {
   titleSection: string;
   subtitle: string;
-  imageOne: any;
-  imageTwo: any;
-  imageThree: any;
-  imageFour: any;
+  imageOne: StaticImageData;
+  imageTwo: StaticImageData;
+  imageThree: StaticImageData;
+  imageFour: StaticImageData;
 }
 
 export const ModelsСlotch = (props: ModelsClotchProps) => {

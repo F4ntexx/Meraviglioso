@@ -604,12 +604,12 @@ const ModelsСlotch = (props)=>{
                     children: props.titleSection
                 }, void 0, false, {
                     fileName: "[project]/components/modelsClotch.tsx",
-                    lineNumber: 17,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/modelsClotch.tsx",
-                lineNumber: 16,
+                lineNumber: 17,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -623,7 +623,7 @@ const ModelsСlotch = (props)=>{
                         id: "imageOne"
                     }, void 0, false, {
                         fileName: "[project]/components/modelsClotch.tsx",
-                        lineNumber: 20,
+                        lineNumber: 21,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
@@ -632,7 +632,7 @@ const ModelsСlotch = (props)=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$models$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].modelsImage
                     }, void 0, false, {
                         fileName: "[project]/components/modelsClotch.tsx",
-                        lineNumber: 27,
+                        lineNumber: 28,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
@@ -641,7 +641,7 @@ const ModelsСlotch = (props)=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$models$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].modelsImage
                     }, void 0, false, {
                         fileName: "[project]/components/modelsClotch.tsx",
-                        lineNumber: 32,
+                        lineNumber: 33,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
@@ -650,19 +650,19 @@ const ModelsСlotch = (props)=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$models$2e$module$2e$scss__$5b$client$5d$__$28$css__module$29$__["default"].modelsImage
                     }, void 0, false, {
                         fileName: "[project]/components/modelsClotch.tsx",
-                        lineNumber: 37,
+                        lineNumber: 38,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/modelsClotch.tsx",
-                lineNumber: 19,
+                lineNumber: 20,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/components/modelsClotch.tsx",
-        lineNumber: 15,
+        lineNumber: 16,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };

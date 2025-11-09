@@ -3,6 +3,5 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/catalogs": "pages/catalogs.js",
-  "/text": "pages/text.js"
+  "/catalogs": "pages/catalogs.js"
 }

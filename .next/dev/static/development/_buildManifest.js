@@ -8,9 +8,6 @@ self.__BUILD_MANIFEST = {
   "/catalogs": [
     "static/chunks/pages/catalogs.js"
   ],
-  "/text": [
-    "static/chunks/pages/text.js"
-  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
